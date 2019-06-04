@@ -1,10 +1,21 @@
+.btn {
+  text-align: center;
+}
+
+.container {
+  background-color: black;
+  color: white;
+}
+
+.jumbotron {
+  color: black;
+}
+
 p {
   display: none;
 }
 
-/* .ja-rule {
-  display: block;
-} */
+
 
 div {
   padding-bottom: 20px;
